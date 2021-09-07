@@ -4,6 +4,12 @@ Birthchart SVG is a chart generator based on Kerykeion and Opeanstro.
 Like the titles says it prints out SVG file of the birthchart,
 it's very easy to use.
 
+## Use kerykeion!
+This repo is here just for legacy reasons, all it functionality and more is in kerykeion, here the link:
+https://github.com/g-battaglia/kerykeion 
+
+
+
 ```python
 # Install:
 >>> pip3 install birthchartSVG
